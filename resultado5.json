@@ -1,11 +1,34 @@
 [
   {
-    "_id": {
-      "$oid": "691e186b7ba7eae1af56946f"
-    },
-    "nombre": "Carlos Vega",
-    "edad": 16,
-    "grado": "2A",
-    "grupo": "4A"
+    "alumno": "Luis Torres",
+    "calificacion": 80
+  },
+  {
+    "alumno": "María Ruiz",
+    "calificacion": 90
+  },
+  {
+    "alumno": "Carlos Vega",
+    "calificacion": 78
+  },
+  {
+    "alumno": "Lucía Díaz",
+    "calificacion": 95
+  },
+  {
+    "alumno": "Pedro Lima",
+    "calificacion": 89
+  },
+  {
+    "alumno": "Paula Reyes",
+    "calificacion": 94
+  },
+  {
+    "alumno": "Miguel Soto",
+    "calificacion": 81
+  },
+  {
+    "alumno": "Sara Campos",
+    "calificacion": 87
   }
 ]
