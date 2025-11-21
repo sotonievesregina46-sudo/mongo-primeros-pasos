@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "691e186b7ba7eae1af56946f"
+    },
+    "nombre": "Carlos Vega",
+    "edad": 16,
+    "grado": "2A",
+    "grupo": "4A"
+  }
+]
